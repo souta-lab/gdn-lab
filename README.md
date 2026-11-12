@@ -1,6 +1,10 @@
 <h1 align="center">🧪 gdn-lab</h1>
 
 <p align="center">
+  <img src="assets/logo.png" alt="gdn-lab logo" width="160">
+</p>
+
+<p align="center">
   A small, clean <strong>reference implementation of Gated DeltaNet (GDN)</strong> in PyTorch —<br>
   plus a controlled experiment comparing GDN against a standard attention block<br>
   on synthetic associative recall (MQAR-lite). CPU-only, readable, tested.
